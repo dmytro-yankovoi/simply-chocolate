@@ -1,0 +1,45 @@
+/* Global styles */
+body {
+  font-family: Montserrat, Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+  color: #111;
+  background: #fafafa;
+}
+ol,
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+}
+address {
+  font-style: normal;
+}
+
+/* Base styles */
+.logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.11;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: #111;
+}
+.logo-item {
+}
+
+/* Social styles */
+.social {
+}
+.social-item {
+}
+.social-link {
+}
+.social-icon {
+}
