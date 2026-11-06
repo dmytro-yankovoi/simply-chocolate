@@ -9,9 +9,6 @@
 }
 .main-nav-link {
   font-weight: 500;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .main-nav-link:hover,
