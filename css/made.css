@@ -2,16 +2,34 @@
 }
 .made-title {
 }
+.made-wraper {
+  display: flex;
+  gap: 20px;
+}
+
+.made-left-side {
+  border-radius: 16px;
+  overflow: hidden;
+}
 .made-ill {
 }
+
+.made-right-side {
+  border-radius: 15px;
+  padding: 32px;
+  width: 516px;
+}
 .made-subtitle {
+  max-width: 350px;
+  margin-bottom: 28px;
   font-weight: 600;
   font-size: 18px;
   line-height: 1.33333;
 }
 .made-list {
 }
-.made-item {
+.made-item:not(:last-child) {
+  margin-bottom: 24px;
 }
 .made-text {
 }
